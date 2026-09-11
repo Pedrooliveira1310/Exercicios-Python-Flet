@@ -73,7 +73,8 @@ Aplicação completa no estilo *Lista de Compras / Tarefas* com tema escuro (*Da
 - Componentes de controle individual de quantidade para cada linha.
 - Estilização em tema escuro com destaques em cores vibrantes.
 
-- 
+- <img width="723" height="971" alt="image" src="https://github.com/user-attachments/assets/e29f28cb-3c93-44a4-9343-8c17a5846e9f" />
+
 
 
 ---
